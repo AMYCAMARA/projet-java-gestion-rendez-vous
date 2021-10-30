@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/doa/IDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/doa/UserDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/Main/Main.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/service/IService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/entities/Secretaire.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/entities/ResponsablePrestation.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/doa/DataBase.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/doa/SecretaireDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/doa/RendezVousDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/entities/Medecin.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/entities/Patient.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/doa/ResponsablePrestationDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/service/Service.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/doa/MedecinDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/doa/PatientDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Gestion_rv_clinique/src/entities/RendesVous.java</file>
+        </group>
+    </open-files>
+</project-private>
